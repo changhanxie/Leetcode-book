@@ -31,13 +31,11 @@ for(int i = 0; i < N; i++){
 
 {% page-ref page="560.-subarray-sum-equals-k.md" %}
 
-
+{% page-ref page="974.-subarray-sums-divisible-by-k.md" %}
 
 #### Type: Range Sum
 
 #### Type: Sliding Window
-
-{% page-ref page="974.-subarray-sums-divisible-by-k.md" %}
 
 {% page-ref page="1200.-minimum-absolute-difference.md" %}
 
