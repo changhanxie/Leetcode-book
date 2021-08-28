@@ -1,41 +1,28 @@
 ---
-description: This is a summary of Leetocde.
+description: Learning leetcode
 ---
 
 # Leetcode
 
-## Prefix Sum and Difference Array
+> [https://www.youtube.com/c/%E5%8F%A4%E5%9F%8E%E7%AE%97%E6%B3%95/videos](https://www.youtube.com/c/%E5%8F%A4%E5%9F%8E%E7%AE%97%E6%B3%95/videos)
 
-{% hint style="info" %}
-template 1: size = N, start from nums\[0\]
-{% endhint %}
+{% page-ref page="prefix-sum-and-difference-array/" %}
 
-```java
-//size = N
-int[] sum = new int[nums.length];
-sum[0] = nums[0];
-for(int i = 1; i < nums.length; i++){
-    sum[i] = sum[i - 1] + nums[i];
-}
-```
+{% page-ref page="depth-first-search-dfs.md" %}
 
-{% hint style="info" %}
-template 2: size = N + 1, start from nums\[1\], nums\[0\] = 0
-{% endhint %}
+{% page-ref page="breadth-first-search-bfs.md" %}
 
-```java
-//size = N + 1
-int[] sum = new int[N + 1];
-for(int i = 0; i < N; i++){
-    sum[i + 1] = sum[i] + nums[i]
-}
-```
+{% page-ref page="monotonic-stack.md" %}
 
-{% page-ref page="prefix-sum/560.-subarray-sum-equals-k.md" %}
+{% page-ref page="monotonic-queue.md" %}
 
-{% page-ref page="prefix-sum/974.-subarray-sums-divisible-by-k.md" %}
+{% page-ref page="pascals-triangle.md" %}
 
-{% page-ref page="prefix-sum/1200.-minimum-absolute-difference.md" %}
+{% page-ref page="heap.md" %}
+
+{% page-ref page="union-find.md" %}
+
+{% page-ref page="minimum-spanning-tree.md" %}
 
 
 
