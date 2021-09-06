@@ -29,6 +29,8 @@ for(int i = 0; i < N; i++){
 
 #### Type: Two Sum
 
+{% page-ref page="525.-contiguous-array.md" %}
+
 {% page-ref page="560.-subarray-sum-equals-k.md" %}
 
 {% page-ref page="974.-subarray-sums-divisible-by-k.md" %}
@@ -37,7 +39,15 @@ for(int i = 0; i < N; i++){
 
 #### Type: Sliding Window
 
+{% page-ref page="209.-minimum-size-subarray-sum.md" %}
+
+{% page-ref page="370.-range-addition.md" %}
+
 {% page-ref page="1200.-minimum-absolute-difference.md" %}
+
+{% page-ref page="untitled.md" %}
+
+
 
 #### Type: Monotonic Queue
 
