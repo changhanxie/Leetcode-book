@@ -35,6 +35,8 @@ for(int i = 0; i < N; i++){
 
 {% page-ref page="974.-subarray-sums-divisible-by-k.md" %}
 
+{% page-ref page="1685.-sum-of-absolute-differences-in-a-sorted-array.md" %}
+
 #### Type: Range Sum
 
 #### Type: Sliding Window
@@ -46,8 +48,6 @@ for(int i = 0; i < N; i++){
 {% page-ref page="1200.-minimum-absolute-difference.md" %}
 
 {% page-ref page="untitled.md" %}
-
-
 
 #### Type: Monotonic Queue
 

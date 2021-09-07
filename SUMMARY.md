@@ -2,9 +2,11 @@
 
 * [Leetcode](README.md)
 * [Prefix Sum And Difference Array](prefix-sum-and-difference-array/README.md)
+  * [53. Maximum Subarray](prefix-sum-and-difference-array/53.-maximum-subarray.md)
   * [525. Contiguous Array](prefix-sum-and-difference-array/525.-contiguous-array.md)
   * [560. Subarray Sum Equals K](prefix-sum-and-difference-array/560.-subarray-sum-equals-k.md)
   * [974. Subarray Sums Divisible by K](prefix-sum-and-difference-array/974.-subarray-sums-divisible-by-k.md)
+  * [1685. Sum of Absolute Differences in a Sorted Array](prefix-sum-and-difference-array/1685.-sum-of-absolute-differences-in-a-sorted-array.md)
   * [209. Minimum Size Subarray Sum](prefix-sum-and-difference-array/209.-minimum-size-subarray-sum.md)
   * [370. Range Addition](prefix-sum-and-difference-array/370.-range-addition.md)
   * [1200. Minimum Absolute Difference](prefix-sum-and-difference-array/1200.-minimum-absolute-difference.md)
