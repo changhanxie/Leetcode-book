@@ -20,4 +20,6 @@
 * [Heap](heap.md)
 * [Union Find](union-find.md)
 * [Minimum Spanning Tree](minimum-spanning-tree.md)
+* [Algorithms](algorithms/README.md)
+  * [Dijkstra And Bellman Ford](algorithms/dijkstra-and-bellman-ford.md)
 
