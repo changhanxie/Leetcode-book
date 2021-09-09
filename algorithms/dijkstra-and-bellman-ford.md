@@ -24,9 +24,9 @@ One way to find single source shortest path is to use topological sort to sort t
 
 We can break down this algorithm into 3 steps:
 
-1. Build the graph with the sources\(v, u, w\)
-2. Create a _**Priority Queue**_ based on the weight w and create a _**Set**_ to find the lightest given vertex
-3. insert the start source into the queue and loop over it. Update the Set of constrains and relax the current vertex u with all its adjacent vertex v.
+1. Build the graph with the sources\(u, v, w\)
+2. Create a _**Priority Queue Q**_ based on the weight w and create a _**Set**_  **S** to find the lightest given vertex
+3. insert the start source into the queue and loop over all sources. Update the Set of vertices and relax the current vertex u with all its adjacent vertex v.
 
 ![Dijkstra&apos;s Algorithm Template](../.gitbook/assets/image%20%286%29.png)
 
@@ -36,7 +36,9 @@ The run time of Dijkstra Algorithm is **O\(\(V + E\) log V\)** in general. The h
 If the graph is sufficiently sparse, E = O\( V^2 / log V\).
 {% endhint %}
 
-{% page-ref page="dijkstra-and-bellman-ford.md" %}
+{% page-ref page="../depth-first-search-dfs/787.-cheapest-flights-within-k-stops.md" %}
+
+
 
 ## Bellman-Ford Algorithm
 
