@@ -29,6 +29,8 @@ for(int i = 0; i < N; i++){
 
 #### Type: Two Sum
 
+{% page-ref page="53.-maximum-subarray.md" %}
+
 {% page-ref page="525.-contiguous-array.md" %}
 
 {% page-ref page="560.-subarray-sum-equals-k.md" %}

@@ -18,7 +18,7 @@ description: Learning leetcode
 
 {% page-ref page="pascals-triangle.md" %}
 
-{% page-ref page="heap.md" %}
+{% page-ref page="heap/" %}
 
 {% page-ref page="union-find.md" %}
 
