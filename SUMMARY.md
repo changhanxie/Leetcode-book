@@ -18,6 +18,7 @@
 * [Monotonic Queue](monotonic-queue.md)
 * [Pascal's Triangle](pascals-triangle.md)
 * [Heap](heap/README.md)
+  * [347. Top K Frequent Elements](heap/347.-top-k-frequent-elements.md)
   * [658. Find K Closest Elements](heap/658.-find-k-closest-elements.md)
   * [1642. Furthest Building You Can Reach](heap/1642.-furthest-building-you-can-reach.md)
 * [Union Find](union-find.md)
