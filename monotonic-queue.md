@@ -1,16 +1,14 @@
 # Monotonic Queue
 
 {% hint style="info" %}
-offer\(\) = add\(\)
+offer() = add()
 
-**offer** will return false when element is not added, but **add\(\)** will throw an IllegalStateExcpetion
+**offer** will return false when element is not added, but **add()** will throw an IllegalStateExcpetion
 
-poll\(\) = remove\(\)
+poll() = remove()
 
-**poll\(\)** returns null when the queue is empty, but **remove\(\)** throws NoSuchElementException
+**poll()** returns null when the queue is empty, but **remove()** throws NoSuchElementException
 {% endhint %}
-
-
 
 
 

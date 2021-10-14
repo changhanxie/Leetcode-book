@@ -3,7 +3,7 @@
 ## Prefix Sum and Difference Array
 
 {% hint style="info" %}
-template 1: size = N, start from nums\[0\]
+template 1: size = N, start from nums\[0]
 {% endhint %}
 
 ```java
@@ -16,7 +16,7 @@ for(int i = 1; i < nums.length; i++){
 ```
 
 {% hint style="info" %}
-template 2: size = N + 1, start from nums\[1\], nums\[0\] = 0
+template 2: size = N + 1, start from nums\[1], nums\[0] = 0
 {% endhint %}
 
 ```java
@@ -29,29 +29,45 @@ for(int i = 0; i < N; i++){
 
 #### Type: Two Sum
 
-{% page-ref page="53.-maximum-subarray.md" %}
+{% content-ref url="53.-maximum-subarray.md" %}
+[53.-maximum-subarray.md](53.-maximum-subarray.md)
+{% endcontent-ref %}
 
-{% page-ref page="525.-contiguous-array.md" %}
+{% content-ref url="525.-contiguous-array.md" %}
+[525.-contiguous-array.md](525.-contiguous-array.md)
+{% endcontent-ref %}
 
-{% page-ref page="560.-subarray-sum-equals-k.md" %}
+{% content-ref url="560.-subarray-sum-equals-k.md" %}
+[560.-subarray-sum-equals-k.md](560.-subarray-sum-equals-k.md)
+{% endcontent-ref %}
 
-{% page-ref page="974.-subarray-sums-divisible-by-k.md" %}
+{% content-ref url="974.-subarray-sums-divisible-by-k.md" %}
+[974.-subarray-sums-divisible-by-k.md](974.-subarray-sums-divisible-by-k.md)
+{% endcontent-ref %}
 
-{% page-ref page="1685.-sum-of-absolute-differences-in-a-sorted-array.md" %}
+{% content-ref url="1685.-sum-of-absolute-differences-in-a-sorted-array.md" %}
+[1685.-sum-of-absolute-differences-in-a-sorted-array.md](1685.-sum-of-absolute-differences-in-a-sorted-array.md)
+{% endcontent-ref %}
 
 #### Type: Range Sum
 
 #### Type: Sliding Window
 
-{% page-ref page="209.-minimum-size-subarray-sum.md" %}
+{% content-ref url="209.-minimum-size-subarray-sum.md" %}
+[209.-minimum-size-subarray-sum.md](209.-minimum-size-subarray-sum.md)
+{% endcontent-ref %}
 
-{% page-ref page="370.-range-addition.md" %}
+{% content-ref url="370.-range-addition.md" %}
+[370.-range-addition.md](370.-range-addition.md)
+{% endcontent-ref %}
 
-{% page-ref page="1200.-minimum-absolute-difference.md" %}
+{% content-ref url="1200.-minimum-absolute-difference.md" %}
+[1200.-minimum-absolute-difference.md](1200.-minimum-absolute-difference.md)
+{% endcontent-ref %}
 
-{% page-ref page="untitled.md" %}
+{% content-ref url="untitled.md" %}
+[untitled.md](untitled.md)
+{% endcontent-ref %}
 
 #### Type: Monotonic Queue
-
-
 

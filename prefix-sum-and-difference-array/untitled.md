@@ -1,11 +1,10 @@
 # 1893. Check if All the Integers in a Range Are Covered
 
-* You are given a 2D integer array `ranges` and two integers `left` and `right`. Each `ranges[i] = [starti, endi]` represents an **inclusive** interval between `starti` and `endi`.
+*   You are given a 2D integer array `ranges` and two integers `left` and `right`. Each `ranges[i] = [starti, endi]` represents an **inclusive** interval between `starti` and `endi`.
 
-  Return `true` _if each integer in the inclusive range_ `[left, right]` _is covered by **at least one** interval in_ `ranges`. Return `false` _otherwise_.
+    Return `true` _if each integer in the inclusive range_ `[left, right]` _is covered by **at least one** interval in_ `ranges`. Return `false` _otherwise_.
 
-  An integer `x` is covered by an interval `ranges[i] = [starti, endi]` if `starti <= x <= endi`.
-
+    An integer `x` is covered by an interval `ranges[i] = [starti, endi]` if `starti <= x <= endi`.
 * **Constraints:**
   * `1 <= ranges.length <= 50`
   * `1 <= starti <= endi <= 50`
@@ -31,9 +30,9 @@ Explanation: 21 is not covered by any range.
 ```
 
 {% hint style="info" %}
-Notice that the range is from \[1, 50\]. We can map the range value to the index of the sum array. 
+Notice that the range is from \[1, 50]. We can map the range value to the index of the sum array. 
 
-In this problem, since we only need to mark the index with the corresponding value in the range, so in cover\[\], the value of each index can be any other than 0. 
+In this problem, since we only need to mark the index with the corresponding value in the range, so in cover\[], the value of each index can be any other than 0. 
 {% endhint %}
 
 ```java
@@ -53,4 +52,3 @@ public boolean isCovered(int[][] ranges, int left, int right) {
     return true;
 }
 ```
-

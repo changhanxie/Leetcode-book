@@ -11,9 +11,9 @@
   * [370. Range Addition](prefix-sum-and-difference-array/370.-range-addition.md)
   * [1200. Minimum Absolute Difference](prefix-sum-and-difference-array/1200.-minimum-absolute-difference.md)
   * [1893. Check if All the Integers in a Range Are Covered](prefix-sum-and-difference-array/untitled.md)
-* [Depth First Search\(DFS\)](depth-first-search-dfs/README.md)
+* [Depth First Search(DFS)](depth-first-search-dfs/README.md)
   * [787. Cheapest Flights Within K Stops](depth-first-search-dfs/787.-cheapest-flights-within-k-stops.md)
-* [Breadth First Search\(BFS\)](breadth-first-search-bfs.md)
+* [Breadth First Search(BFS)](breadth-first-search-bfs.md)
 * [Monotonic  Stack](monotonic-stack.md)
 * [Monotonic Queue](monotonic-queue.md)
 * [Pascal's Triangle](pascals-triangle.md)
@@ -26,4 +26,5 @@
 * [Minimum Spanning Tree](minimum-spanning-tree.md)
 * [Algorithms](algorithms/README.md)
   * [Dijkstra And Bellman Ford](algorithms/dijkstra-and-bellman-ford.md)
-
+* [Math](math/README.md)
+  * [1344. Angle Between Hands of a Clock](math/1344.-angle-between-hands-of-a-clock.md)
