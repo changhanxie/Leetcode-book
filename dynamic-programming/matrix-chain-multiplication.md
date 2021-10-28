@@ -19,6 +19,8 @@ Output: 98
 
 {% hint style="info" %}
 bottom up
+
+****[**video for Matrix Chain**](https://www.youtube.com/watch?v=GMzVeWpyTN0)****
 {% endhint %}
 
 ```java
@@ -31,7 +33,6 @@ bottom up
       for(int j = i + 2; j < N; j++){
         dp[i][j] = Integer.MAX_VALUE;
       }
-
     }
     for(int j = 0; j < N; j++){
       for(int i = j - 2; i >= 0; i--){
