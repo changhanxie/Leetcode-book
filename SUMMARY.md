@@ -28,3 +28,5 @@
   * [Dijkstra And Bellman Ford](algorithms/dijkstra-and-bellman-ford.md)
 * [Math](math/README.md)
   * [1344. Angle Between Hands of a Clock](math/1344.-angle-between-hands-of-a-clock.md)
+* [Dynamic Programming](dynamic-programming/README.md)
+  * [Matrix Chain Multiplication](dynamic-programming/matrix-chain-multiplication.md)
