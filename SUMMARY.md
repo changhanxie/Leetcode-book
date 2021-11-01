@@ -13,6 +13,7 @@
   * [1893. Check if All the Integers in a Range Are Covered](prefix-sum-and-difference-array/untitled.md)
 * [Depth First Search(DFS)](depth-first-search-dfs/README.md)
   * [787. Cheapest Flights Within K Stops](depth-first-search-dfs/787.-cheapest-flights-within-k-stops.md)
+  * [1631. Path With Minimum Effort](depth-first-search-dfs/1631.-path-with-minimum-effort.md)
 * [Breadth First Search(BFS)](breadth-first-search-bfs.md)
 * [Monotonic  Stack](monotonic-stack.md)
 * [Monotonic Queue](monotonic-queue.md)
