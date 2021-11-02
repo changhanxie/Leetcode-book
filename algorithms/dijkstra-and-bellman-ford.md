@@ -31,13 +31,17 @@ We can break down this algorithm into 3 steps:
 ![Dijkstra's Algorithm Template](<../.gitbook/assets/image (6).png>)
 
 {% hint style="info" %}
-The run time of Dijkstra Algorithm is **O((V + E) log V) **in general. The heap-extract-min takes time O(log V). For V such operations, the total time is O(V log V). To build the priority queue with decrease-key operations that takes time O(log V) for E edges, the time complexity is O(E log V). 
+The run time of Dijkstra Algorithm is **O((V + E) log V) **in general. The heap-extract-min takes time O(log V). For V such operations, the total time is O(V log V). To build the priority queue with decrease-key operations that takes time O(log V) for E edges, the time complexity is O(E log V).&#x20;
 
 If the graph is sufficiently sparse, E = O( V^2 / log V).
 {% endhint %}
 
 {% content-ref url="../depth-first-search-dfs/787.-cheapest-flights-within-k-stops.md" %}
 [787.-cheapest-flights-within-k-stops.md](../depth-first-search-dfs/787.-cheapest-flights-within-k-stops.md)
+{% endcontent-ref %}
+
+{% content-ref url="../depth-first-search-dfs/1631.-path-with-minimum-effort.md" %}
+[1631.-path-with-minimum-effort.md](../depth-first-search-dfs/1631.-path-with-minimum-effort.md)
 {% endcontent-ref %}
 
 
