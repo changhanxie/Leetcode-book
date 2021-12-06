@@ -25,13 +25,13 @@ One way to find single source shortest path is to use topological sort to sort t
 We can break down this algorithm into 3 steps:
 
 1. Build the graph with the sources(u, v, w)
-2. Create a _**Priority Queue Q **_based on the weight w and create a _**Set**_  **S** to find the lightest given vertex
+2. Create a _**Priority Queue Q**_ based on the weight w and create a _**Set**_  **S** to find the lightest given vertex
 3. insert the start source into the queue and loop over all sources. Update the Set of vertices and relax the current vertex u with all its adjacent vertex v.
 
 ![Dijkstra's Algorithm Template](<../.gitbook/assets/image (6).png>)
 
 {% hint style="info" %}
-The run time of Dijkstra Algorithm is **O((V + E) log V) **in general. The heap-extract-min takes time O(log V). For V such operations, the total time is O(V log V). To build the priority queue with decrease-key operations that takes time O(log V) for E edges, the time complexity is O(E log V).&#x20;
+The run time of Dijkstra Algorithm is **O((V + E) log V)** in general. The heap-extract-min takes time O(log V). For V such operations, the total time is O(V log V). To build the priority queue with decrease-key operations that takes time O(log V) for E edges, the time complexity is O(E log V).&#x20;
 
 If the graph is sufficiently sparse, E = O( V^2 / log V).
 {% endhint %}

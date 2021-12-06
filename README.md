@@ -34,8 +34,8 @@ description: Learning leetcode
 [heap](heap/)
 {% endcontent-ref %}
 
-{% content-ref url="union-find.md" %}
-[union-find.md](union-find.md)
+{% content-ref url="algorithms/union-find/" %}
+[union-find](algorithms/union-find/)
 {% endcontent-ref %}
 
 {% content-ref url="minimum-spanning-tree.md" %}
