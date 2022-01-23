@@ -34,12 +34,12 @@ description: Learning leetcode
 [heap](heap/)
 {% endcontent-ref %}
 
-{% content-ref url="algorithms/union-find/" %}
-[union-find](algorithms/union-find/)
+{% content-ref url="minimum-spanning-tree/union-find/" %}
+[union-find](minimum-spanning-tree/union-find/)
 {% endcontent-ref %}
 
-{% content-ref url="minimum-spanning-tree.md" %}
-[minimum-spanning-tree.md](minimum-spanning-tree.md)
+{% content-ref url="minimum-spanning-tree/" %}
+[minimum-spanning-tree](minimum-spanning-tree/)
 {% endcontent-ref %}
 
 {% content-ref url="monotonic-queue.md" %}
