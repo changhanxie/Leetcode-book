@@ -25,6 +25,7 @@
   * [692. Top K Frequent Words](heap/692.-top-k-frequent-words.md)
   * [1642. Furthest Building You Can Reach](heap/1642.-furthest-building-you-can-reach.md)
   * [386. Lexicographical Numbers - MinHeap](heap/386.-lexicographical-numbers-minheap.md)
+* [Graph Basics](graph-basics.md)
 * [Minimum Spanning Tree](minimum-spanning-tree/README.md)
   * [Dijkstra And Bellman Ford](minimum-spanning-tree/dijkstra-and-bellman-ford.md)
   * [Prim's Algorithm](minimum-spanning-tree/prims-algorithm.md)
