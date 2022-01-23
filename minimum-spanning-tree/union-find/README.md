@@ -18,6 +18,6 @@ The idea of Kruskal's algorithm is do sort the edges based on weight before do u
 
 ![](<../../.gitbook/assets/image (9).png>)
 
-{% content-ref url="1319.-number-of-operations-to-make-network-connected.md" %}
-[1319.-number-of-operations-to-make-network-connected.md](1319.-number-of-operations-to-make-network-connected.md)
+{% content-ref url="1319.-union-find-number-of-operations-to-make-network-connected.md" %}
+[1319.-union-find-number-of-operations-to-make-network-connected.md](1319.-union-find-number-of-operations-to-make-network-connected.md)
 {% endcontent-ref %}
