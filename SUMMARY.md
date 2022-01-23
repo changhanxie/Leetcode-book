@@ -31,6 +31,7 @@
   * [Prim's Algorithm](minimum-spanning-tree/prims-algorithm.md)
   * [Union Find and Kruskal](minimum-spanning-tree/union-find/README.md)
     * [1319. Number of Operations to Make Network Connected](minimum-spanning-tree/union-find/1319.-number-of-operations-to-make-network-connected.md)
+* [Topological Sort](topological-sort.md)
 * [Math](math/README.md)
   * [1344. Angle Between Hands of a Clock](math/1344.-angle-between-hands-of-a-clock.md)
 * [Dynamic Programming](dynamic-programming/README.md)
