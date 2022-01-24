@@ -1,7 +1,7 @@
 # Depth First Search(DFS)
 
-{% content-ref url="../minimum-spanning-tree/union-find/1319.-union-find-number-of-operations-to-make-network-connected.md" %}
-[1319.-union-find-number-of-operations-to-make-network-connected.md](../minimum-spanning-tree/union-find/1319.-union-find-number-of-operations-to-make-network-connected.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../heap/386.-lexicographical-numbers-minheap.md" %}
