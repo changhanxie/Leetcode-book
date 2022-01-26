@@ -32,6 +32,7 @@
   * [Prim's Algorithm](minimum-spanning-tree/prims-algorithm.md)
   * [Union Find and Kruskal](minimum-spanning-tree/union-find.md)
 * [Topological Sort](topological-sort/README.md)
+  * [1584. Min Cost to Connect All Points](topological-sort/1584.-min-cost-to-connect-all-points.md)
   * [207. Course Schedule](topological-sort/207.-course-schedule.md)
 * [Math](math/README.md)
   * [1344. Angle Between Hands of a Clock](math/1344.-angle-between-hands-of-a-clock.md)
