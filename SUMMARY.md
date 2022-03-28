@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Leetcode](README.md)
-* [Binary Search](binary-search.md)
-* [162. Find Peak Element](162.-find-peak-element.md)
+* [Binary Search](binary-search/README.md)
+  * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
+  * [875. Koko Eating Bananas](binary-search/875.-koko-eating-bananas.md)
 * [Rolling Hashing](rolling-hashing.md)
 * [Sliding Windows](sliding-windows/README.md)
   * [3. Longest Substring Without Repeating Characters](sliding-windows/3.-longest-substring-without-repeating-characters.md)
