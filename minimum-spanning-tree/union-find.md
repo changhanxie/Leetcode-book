@@ -20,4 +20,4 @@ It has 3 steps, MAKE-SET -> UNION(set) -> FIND(set)
 The idea of Kruskal's algorithm is do sort the edges based on weight before do union find.
 {% endhint %}
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
