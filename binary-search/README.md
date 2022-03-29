@@ -8,3 +8,18 @@ description: B
 
 [3 different binary search template](https://www.cnblogs.com/cnoodle/p/14267991.html)
 
+{% content-ref url="441.-arranging-coins.md" %}
+[441.-arranging-coins.md](441.-arranging-coins.md)
+{% endcontent-ref %}
+
+{% content-ref url="302.-smallest-rectangle-enclosing-black-pixels.md" %}
+[302.-smallest-rectangle-enclosing-black-pixels.md](302.-smallest-rectangle-enclosing-black-pixels.md)
+{% endcontent-ref %}
+
+{% content-ref url="162.-find-peak-element.md" %}
+[162.-find-peak-element.md](162.-find-peak-element.md)
+{% endcontent-ref %}
+
+{% content-ref url="875.-koko-eating-bananas.md" %}
+[875.-koko-eating-bananas.md](875.-koko-eating-bananas.md)
+{% endcontent-ref %}
