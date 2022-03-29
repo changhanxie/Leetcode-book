@@ -2,6 +2,7 @@
 
 * [Leetcode](README.md)
 * [Binary Search](binary-search/README.md)
+  * [302. Smallest Rectangle Enclosing Black Pixels](binary-search/302.-smallest-rectangle-enclosing-black-pixels.md)
   * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
   * [875. Koko Eating Bananas](binary-search/875.-koko-eating-bananas.md)
 * [Rolling Hashing](rolling-hashing.md)
