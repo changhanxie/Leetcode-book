@@ -1,7 +1,7 @@
 # Topological Sort
 
-{% content-ref url="207.-course-schedule.md" %}
-[207.-course-schedule.md](207.-course-schedule.md)
+{% content-ref url="207.-course-schedule-i.md" %}
+[207.-course-schedule-i.md](207.-course-schedule-i.md)
 {% endcontent-ref %}
 
 {% content-ref url="1584.-min-cost-to-connect-all-points.md" %}
