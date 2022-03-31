@@ -3,6 +3,7 @@
 * [Leetcode](README.md)
 * [Math Related](math-related.md)
 * [Binary Search](binary-search/README.md)
+  * [153. Find Minimum in Rotated Sorted Array](binary-search/153.-find-minimum-in-rotated-sorted-array.md)
   * [441. Arranging Coins](binary-search/441.-arranging-coins.md)
   * [302. Smallest Rectangle Enclosing Black Pixels](binary-search/302.-smallest-rectangle-enclosing-black-pixels.md)
   * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
