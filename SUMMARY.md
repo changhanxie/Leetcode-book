@@ -3,6 +3,7 @@
 * [Leetcode](README.md)
 * [Math Related](math-related.md)
 * [Binary Search](binary-search/README.md)
+  * [34. Find First and Last Position of Element in Sorted Array](binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
   * [209. Minimum Size Subarray Sum](binary-search/209.-minimum-size-subarray-sum.md)
   * [540. Single Element in a Sorted Array](binary-search/540.-single-element-in-a-sorted-array.md)
   * [528. Random Pick with Weight](binary-search/528.-random-pick-with-weight.md)
