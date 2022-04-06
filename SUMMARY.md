@@ -3,6 +3,8 @@
 * [Leetcode](README.md)
 * [Math Related](math-related.md)
 * [Binary Search](binary-search/README.md)
+  * [167. Two Sum II - Input Array Is Sorted](binary-search/167.-two-sum-ii-input-array-is-sorted.md)
+  * [1351. Count Negative Numbers in a Sorted Matrix](binary-search/1351.-count-negative-numbers-in-a-sorted-matrix.md)
   * [34. Find First and Last Position of Element in Sorted Array](binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
   * [209. Minimum Size Subarray Sum](binary-search/209.-minimum-size-subarray-sum.md)
   * [540. Single Element in a Sorted Array](binary-search/540.-single-element-in-a-sorted-array.md)
