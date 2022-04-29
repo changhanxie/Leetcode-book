@@ -61,6 +61,8 @@
 ## Blind75
 
 * [Array](blind75/array/README.md)
+  * [53. Maximum Subarray](blind75/array/53.-maximum-subarray.md)
+  * [11. Container With Most Water](blind75/array/11.-container-with-most-water.md)
   * [152. Maximum Product Subarray](blind75/array/152.-maximum-product-subarray.md)
   * [121. Best Time to Buy and Sell Stock](blind75/array/121.-best-time-to-buy-and-sell-stock.md)
   * [1. Two Sum](blind75/array/1.-two-sum.md)
