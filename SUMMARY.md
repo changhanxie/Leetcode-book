@@ -61,7 +61,10 @@
 ## Blind75
 
 * [Array](blind75/array/README.md)
+  * [153. Find Minimum in Rotated Sorted Array](blind75/array/153.-find-minimum-in-rotated-sorted-array.md)
+  * [33. Search in Rotated Sorted Array](blind75/array/33.-search-in-rotated-sorted-array.md)
   * [53. Maximum Subarray](blind75/array/53.-maximum-subarray.md)
+  * [238. Product of Array Except Self](blind75/array/238.-product-of-array-except-self.md)
   * [11. Container With Most Water](blind75/array/11.-container-with-most-water.md)
   * [152. Maximum Product Subarray](blind75/array/152.-maximum-product-subarray.md)
   * [121. Best Time to Buy and Sell Stock](blind75/array/121.-best-time-to-buy-and-sell-stock.md)
