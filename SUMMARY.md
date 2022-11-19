@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Leetcode](README.md)
+* [Useful Skills](useful-skills.md)
 * [Math Related](math-related.md)
 * [Binary Search](binary-search/README.md)
   * [167. Two Sum II - Input Array Is Sorted](binary-search/167.-two-sum-ii-input-array-is-sorted.md)

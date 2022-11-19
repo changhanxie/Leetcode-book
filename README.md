@@ -4,7 +4,21 @@ description: Learning leetcode
 
 # Leetcode
 
+{% content-ref url="useful-skills.md" %}
+[useful-skills.md](useful-skills.md)
+{% endcontent-ref %}
 
+{% content-ref url="math-related.md" %}
+[math-related.md](math-related.md)
+{% endcontent-ref %}
+
+{% content-ref url="binary-search/" %}
+[binary-search](binary-search/)
+{% endcontent-ref %}
+
+{% content-ref url="rolling-hashing.md" %}
+[rolling-hashing.md](rolling-hashing.md)
+{% endcontent-ref %}
 
 {% content-ref url="prefix-sum-and-difference-array/" %}
 [prefix-sum-and-difference-array](prefix-sum-and-difference-array/)
@@ -34,16 +48,12 @@ description: Learning leetcode
 [heap](heap/)
 {% endcontent-ref %}
 
-{% content-ref url="minimum-spanning-tree/union-find.md" %}
-[union-find.md](minimum-spanning-tree/union-find.md)
+{% content-ref url="graph-basics.md" %}
+[graph-basics.md](graph-basics.md)
 {% endcontent-ref %}
 
 {% content-ref url="minimum-spanning-tree/" %}
 [minimum-spanning-tree](minimum-spanning-tree/)
-{% endcontent-ref %}
-
-{% content-ref url="monotonic-queue.md" %}
-[monotonic-queue.md](monotonic-queue.md)
 {% endcontent-ref %}
 
 古城算法
